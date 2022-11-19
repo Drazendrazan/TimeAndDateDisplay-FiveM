@@ -31,11 +31,11 @@ A script that allows you to always show the real life time and real life date on
 ### How to install
 1. [**Download**](https://github.com/LucaNL/TimeAndDateDisplay-FiveM/archive/refs/heads/main.zip) the recource.
 2. Change the config.lua to what you like.
-4. Add this to your server.cfg:
+3. Add this to your server.cfg:
 ```
 ensure TimeAndDateDisplay-FiveM
 ```
-5. Restart Server.
+4. Restart Server.
 
 # Changelog
 
