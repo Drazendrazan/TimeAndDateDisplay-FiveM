@@ -39,9 +39,12 @@ ensure TimeAndDateDisplay-FiveM
 
 # Changelog
 
+**Changelog v2.0.1**
+
+  > - Config better and everything clearer
+  > - A option to change Timezone Offset so you can always set the right time. (Thanks JokeDevil)
+
 **Changelog v2.0.0**
-```
-  - Config better and everything clearer
-  - A completely different way of displaying the time used to be via lua but that took a lot of performance so it is now done via HTML and JS. (thanks jsqr#0001)
-  - Version checker update
-```
+  > -  Config better and everything clearer
+  > -  A completely different way of displaying the time used to be via lua but that took a lot of performance so it is now done via HTML and JS. (thanks jsqr#0001)
+  > -  Version checker update
