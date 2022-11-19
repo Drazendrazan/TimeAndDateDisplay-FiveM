@@ -26,5 +26,11 @@ Config.YearMonthDay = false -- Set true to have YYYY-MM-DD
 
 Config.YearDayMonth = false -- Set true to have YYYY-DD-MM
 
+<<<<<<< Updated upstream
 Config.TimezoneOffset = 0 -- set this to the offset you need. 
 --example -1 will make the time 1 hour earlier and 1 will make the time one hour later.
+=======
+-- Example -1 will make the time 1 hour earlier and 1 will make the time one hour later.
+
+Config.TimezoneOffset = 0 -- Set this to the offset you need. 
+>>>>>>> Stashed changes
